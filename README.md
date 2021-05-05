@@ -1,0 +1,3 @@
+- 👋 Sergio Camilo Fandino Hernandez - Senior Analytics Engineer @TradeRepublic
+- 👀 Data Pipelines, Analytics, Data Warehousing 
+- Started a new Account - My repos will be one day available here again! 
