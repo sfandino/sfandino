@@ -1,3 +1,3 @@
 - 👋 Sergio Camilo Fandino Hernandez
-- 👀 System Engineer, Data Pipelines, Analytics, Data Warehousing, Engineer Manager
+- 👀 Software Engineer Data, Data Pipelines, Analytics, Data Warehousing, Engineer Manager, AI and Analytics
 
